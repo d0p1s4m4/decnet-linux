@@ -1,0 +1,8 @@
+*.tar.gz
+*.o
+*.ko
+*.d
+*.mod
+*.cmd
+*.order
+/linux-6.0
